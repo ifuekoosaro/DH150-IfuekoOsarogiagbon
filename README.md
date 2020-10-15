@@ -6,7 +6,7 @@
 ### About Nylon and Refinery 29 
 Nylon – https://www.nylon.com/ 
 
-![nylon homepage](./nylon.png)
+![nylon homepage](nylon.png)
 
 Refinery29 – https://www.refinery29.com/en-us
 
