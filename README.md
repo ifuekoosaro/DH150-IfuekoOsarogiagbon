@@ -10,7 +10,7 @@ Nylon – https://www.nylon.com/
 
 Refinery29 – https://www.refinery29.com/en-us
 
-![refinery29 homepage](refinery29.png)
+![image](https://user-images.githubusercontent.com/62724477/96058586-3b011a80-0e51-11eb-875f-7ccd59cbcdc2.png)
 
 ### 1. Visibility of system status 
 (N) Throughout the landing page, each article has its subject category on top of the feature image so that users know what type of article they are about to engage with. Ads are also labeled as ads (1)
