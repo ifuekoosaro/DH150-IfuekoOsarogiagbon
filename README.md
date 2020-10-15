@@ -2,14 +2,15 @@
 
 ## Heuristics Evaluation of Nylon and Refinery29 by Ifueko Osarogiagbon
 ### Project Description 
+I intend on building a digital website called Glamdom for my Digital Humanities: User Experience Design project. Glamdom will be an online pop culture platform by and for genzennial women of color featuring fashion, beauty, and entertainment content unappologetically from their perspective. 
 
 ### About Nylon and Refinery 29 
 Nylon – https://www.nylon.com/ 
-
+Nylon is a digital fashion publication targeted towards a millenial audience that showcases news, op-eds, and interviews of famous figures and gamechangers in the world of pop culture.
 ![image](https://user-images.githubusercontent.com/62724477/96058586-3b011a80-0e51-11eb-875f-7ccd59cbcdc2.png)
 
 Refinery29 – https://www.refinery29.com/en-us
-
+Refinery29 is a digital media and entertainment platform for millenial women that hosts wide range of editorial pop culture content. 
 ![image](https://user-images.githubusercontent.com/62724477/96059081-9bdd2280-0e52-11eb-8557-3449704702af.png)
 
 ### 1. Visibility of system status 
