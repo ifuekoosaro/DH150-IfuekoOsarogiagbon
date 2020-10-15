@@ -6,11 +6,11 @@
 ### About Nylon and Refinery 29 
 Nylon – https://www.nylon.com/ 
 
-![nylon homepage](nylon.png)
+![image](https://user-images.githubusercontent.com/62724477/96058586-3b011a80-0e51-11eb-875f-7ccd59cbcdc2.png)
 
 Refinery29 – https://www.refinery29.com/en-us
 
-![image](https://user-images.githubusercontent.com/62724477/96058586-3b011a80-0e51-11eb-875f-7ccd59cbcdc2.png)
+![image](https://user-images.githubusercontent.com/62724477/96059081-9bdd2280-0e52-11eb-8557-3449704702af.png)
 
 ### 1. Visibility of system status 
 (N) Throughout the landing page, each article has its subject category on top of the feature image so that users know what type of article they are about to engage with. Ads are also labeled as ads (1)
