@@ -13,4 +13,4 @@ I intend on building a digital website called Glamdom for my Digital Humanities:
 
 ### Interview Transcript + Notes
 [Transcript](https://otter.ai/s/O_jNWCO_QPqRxJ1Fn7rPhQ) 
-[Notes](
+[Notes](https://docs.google.com/document/d/1wApkyP9r2zwz0xR94Rc6V7_qVUvojrzI-NzcIGUVwQ0/edit?usp=sharing) 
