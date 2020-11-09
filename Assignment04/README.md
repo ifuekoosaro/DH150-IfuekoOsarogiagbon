@@ -2,9 +2,16 @@
 
 ## Contextual Inquiry 
 ### Project Design Challenge
-I intend on building a digital website called Glamdom for my Digital Humanities: User Experience Design project. Glamdom will be an online pop culture platform by and for genzennial women of color featuring fashion, beauty, and entertainment content unappologetically from their perspective. 
+My project is meant to make accessing the pop culture–beauty, fashion, entertainment, celebrity–content including news reporting, op-eds, and interviews of notable figures and gamechangers influencing pop culture that unappologetically centers the experiences and interests of midddle-adged women of color easier for said group. Many women of color interested in fashion publications find that much of the topics written about in mainstream publications aren't relatable to their experiences and interests such as featuring mostly haircare brands that don't provide products  that cater to textured hair, makeup brands that don't make products in wide enough shade ranges for non-white women, or articles that don't highlight women of color figures–singers, actresses, artists–in the world of pop culture. 
+### Target Users
+## Rationale Behind Choice of User
+I tried to find someone as close to my target age as possible who had a certain level of interest in beauty, fashion, and entertainment news; who followed celebrities and influencers on social media, likes finding ne fashion and beauty brands to shop from or look at; liked finding new ways to maintain their hair and skin, and liked finding new arts to listen to.  I looked for someone who had either of these interests or a combination.
+
+## Rationale Behind Choice of User
+I conducted an interview with my cousin, Kolapo Alex-Oni, a 35 year-old, college-educated enviromental scientist who is interested in fashion, beauty–mainly experimenting with hair care–and celebrity news. 
 
 ### Research Methedology
+The interview takes place in my home where the interviewee also stays) in the area where the interviewee usually does her work throughout each day until the weekend. It was in our upstairs media room where the interviewee can easily use whichever device they typically access the internet from. The interview is conducted by myself with my phone present for recording the interview (using Otter) and my laptop for taking notes during the interview. 
 
 ### Interview Guide
 [Script](https://docs.google.com/document/d/1EU9PVCJ6-a6tLO-zsngldFhxsHj1fIoevs-xfk09LrA/edit?usp=sharing) 
