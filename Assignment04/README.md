@@ -21,3 +21,6 @@ The interview takes place in my home where the interviewee also stays) in the ar
 ### Interview Transcript + Notes
 [Transcript](https://otter.ai/s/O_jNWCO_QPqRxJ1Fn7rPhQ) 
 [Notes](https://docs.google.com/document/d/1wApkyP9r2zwz0xR94Rc6V7_qVUvojrzI-NzcIGUVwQ0/edit?usp=sharing) 
+
+### Reflection
+Conducting this informational interview was much easier than I had expected. Despite having only a few questions written for the user activity I could intuitively ask my interviewee questions in order to fully investigate their actions and thought process. Much of the heurestic issues I uncovered during my evaluation were repeated by my interviewee which really helped affirm what changes I need to input in my own project. She picked out a lot of issues with user control and freedom from the way the website impeded her ability to find old articles as well as issues with consitency and standards from how the site would categorize articles but then not included the categories in the menu bar. 
